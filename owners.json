@@ -1,5 +1,16 @@
 {
     "owners": [
-        "uc3379280623550b582917df12384f742"
-    ]
+        "uc3379280623550b582917df12384f742",
+        "u56d30ff9392a9dddbe7fcdec518d1894",
+        "u23245bd983b207aec3d422724a338f5a",
+        "u1619703f3d8ecf8f805dafd9d9fb6915"
+    ],
+    "ownerss": {
+        "u0bce28f30f5bede5e98ddd9338a10c21": true,
+        "u20204b202647b0047fbd07386be9d47e": true,
+        "u55cbf03f7e224a55396ba8794fab9b39": true,
+        "ue1b3ab19ecf1220fc537aceec9ff6f04": true,
+        "ue2a07c26069291f17c2d909693f6f41a": true,
+        "uf65744292cbdd39d41f18ded4dfb651c": true
+    }
 }
